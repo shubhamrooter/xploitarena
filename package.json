@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "bcryptjs": "^3.0.2",
+    "mongodb": "^6.14.2",
+    "nprogress": "^0.2.0",
+    "react-icons": "^5.5.0"
+  }
+}
